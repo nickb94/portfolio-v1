@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e6238923c9a9bc941ca89e0b868e86a",
+    "revision": "5fcb208754c2bacbc4c3d44d0308b583",
     "url": "/portfolio-v1/index.html"
   },
   {
-    "revision": "d5ffe93e3a71f61923f4",
+    "revision": "4e96cabc50916e8073d1",
     "url": "/portfolio-v1/static/css/main.111c1d0b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-v1/static/js/2.d74fd884.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5ffe93e3a71f61923f4",
-    "url": "/portfolio-v1/static/js/main.19b2c95e.chunk.js"
+    "revision": "4e96cabc50916e8073d1",
+    "url": "/portfolio-v1/static/js/main.1219b8ea.chunk.js"
   },
   {
     "revision": "6ab2fcf75b68cc33e566",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-v1/static/media/Newdesign2.3a51ff95.png"
   },
   {
-    "revision": "e2e1df7c9847e5dbbceded36a1334a2a",
-    "url": "/portfolio-v1/static/media/Nischal.e2e1df7c.pdf"
+    "revision": "89610c511b63cdd8a2d388096cdac144",
+    "url": "/portfolio-v1/static/media/Nischal.89610c51.pdf"
   },
   {
     "revision": "32fd7a68c5d53484fff185a34fe1e2f9",
