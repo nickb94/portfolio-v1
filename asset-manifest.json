@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio-v1/static/css/main.111c1d0b.chunk.css",
-    "main.js": "/portfolio-v1/static/js/main.2165efdb.chunk.js",
-    "main.js.map": "/portfolio-v1/static/js/main.2165efdb.chunk.js.map",
+    "main.js": "/portfolio-v1/static/js/main.19b2c95e.chunk.js",
+    "main.js.map": "/portfolio-v1/static/js/main.19b2c95e.chunk.js.map",
     "runtime-main.js": "/portfolio-v1/static/js/runtime-main.3199ff24.js",
     "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.3199ff24.js.map",
     "static/js/2.d74fd884.chunk.js": "/portfolio-v1/static/js/2.d74fd884.chunk.js",
     "static/js/2.d74fd884.chunk.js.map": "/portfolio-v1/static/js/2.d74fd884.chunk.js.map",
     "index.html": "/portfolio-v1/index.html",
-    "precache-manifest.0e82944b406a6faaefcf6b967db7d2dc.js": "/portfolio-v1/precache-manifest.0e82944b406a6faaefcf6b967db7d2dc.js",
+    "precache-manifest.90f6d52757ea75f71d2427486d70c902.js": "/portfolio-v1/precache-manifest.90f6d52757ea75f71d2427486d70c902.js",
     "service-worker.js": "/portfolio-v1/service-worker.js",
     "static/css/main.111c1d0b.chunk.css.map": "/portfolio-v1/static/css/main.111c1d0b.chunk.css.map",
     "static/js/2.d74fd884.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.d74fd884.chunk.js.LICENSE.txt",
@@ -17,9 +17,9 @@
     "static/media/Mockups.png": "/portfolio-v1/static/media/Mockups.d4159a15.png",
     "static/media/Newdesign.png": "/portfolio-v1/static/media/Newdesign.8577a8eb.png",
     "static/media/Newdesign2.png": "/portfolio-v1/static/media/Newdesign2.3a51ff95.png",
+    "static/media/Nischal.pdf": "/portfolio-v1/static/media/Nischal.e2e1df7c.pdf",
     "static/media/Olddesign.png": "/portfolio-v1/static/media/Olddesign.32fd7a68.png",
     "static/media/Olddesign2.png": "/portfolio-v1/static/media/Olddesign2.df96bf8d.png",
-    "static/media/Resume.pdf": "/portfolio-v1/static/media/Resume.7b686275.pdf",
     "static/media/branding.png": "/portfolio-v1/static/media/branding.4acec17e.png",
     "static/media/heaven.png": "/portfolio-v1/static/media/heaven.b9b6815c.png",
     "static/media/luvstay.png": "/portfolio-v1/static/media/luvstay.6c27f442.png",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.3199ff24.js",
     "static/js/2.d74fd884.chunk.js",
     "static/css/main.111c1d0b.chunk.css",
-    "static/js/main.2165efdb.chunk.js"
+    "static/js/main.19b2c95e.chunk.js"
   ]
 }
