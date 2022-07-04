@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.b3fe17d9.chunk.css",
-    "main.js": "/portfolio-v1/static/js/main.b85c70f4.chunk.js",
-    "main.js.map": "/portfolio-v1/static/js/main.b85c70f4.chunk.js.map",
+    "main.css": "/portfolio-v1/static/css/main.111c1d0b.chunk.css",
+    "main.js": "/portfolio-v1/static/js/main.2165efdb.chunk.js",
+    "main.js.map": "/portfolio-v1/static/js/main.2165efdb.chunk.js.map",
     "runtime-main.js": "/portfolio-v1/static/js/runtime-main.3199ff24.js",
     "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.3199ff24.js.map",
     "static/js/2.d74fd884.chunk.js": "/portfolio-v1/static/js/2.d74fd884.chunk.js",
     "static/js/2.d74fd884.chunk.js.map": "/portfolio-v1/static/js/2.d74fd884.chunk.js.map",
     "index.html": "/portfolio-v1/index.html",
-    "precache-manifest.f870ac36ea98063ed74d7a6df9870945.js": "/portfolio-v1/precache-manifest.f870ac36ea98063ed74d7a6df9870945.js",
+    "precache-manifest.0e82944b406a6faaefcf6b967db7d2dc.js": "/portfolio-v1/precache-manifest.0e82944b406a6faaefcf6b967db7d2dc.js",
     "service-worker.js": "/portfolio-v1/service-worker.js",
-    "static/css/main.b3fe17d9.chunk.css.map": "/portfolio-v1/static/css/main.b3fe17d9.chunk.css.map",
+    "static/css/main.111c1d0b.chunk.css.map": "/portfolio-v1/static/css/main.111c1d0b.chunk.css.map",
     "static/js/2.d74fd884.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.d74fd884.chunk.js.LICENSE.txt",
     "static/media/3dmockups.png": "/portfolio-v1/static/media/3dmockups.42440366.png",
     "static/media/App.scss": "/portfolio-v1/static/media/myself.4f9795ce.png",
@@ -23,13 +23,13 @@
     "static/media/branding.png": "/portfolio-v1/static/media/branding.4acec17e.png",
     "static/media/heaven.png": "/portfolio-v1/static/media/heaven.b9b6815c.png",
     "static/media/luvstay.png": "/portfolio-v1/static/media/luvstay.6c27f442.png",
-    "static/media/newyork.webp": "/portfolio-v1/static/media/newyork.ebb81965.webp",
+    "static/media/newyork.jpg": "/portfolio-v1/static/media/newyork.63129058.jpg",
     "static/media/photo1.jpeg": "/portfolio-v1/static/media/photo1.4cf786ee.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.3199ff24.js",
     "static/js/2.d74fd884.chunk.js",
-    "static/css/main.b3fe17d9.chunk.css",
-    "static/js/main.b85c70f4.chunk.js"
+    "static/css/main.111c1d0b.chunk.css",
+    "static/js/main.2165efdb.chunk.js"
   ]
 }
