@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.fb7f9c0f.chunk.css",
-    "main.js": "/portfolio-v1/static/js/main.35f69305.chunk.js",
-    "main.js.map": "/portfolio-v1/static/js/main.35f69305.chunk.js.map",
+    "main.css": "/portfolio-v1/static/css/main.dd689475.chunk.css",
+    "main.js": "/portfolio-v1/static/js/main.142316bc.chunk.js",
+    "main.js.map": "/portfolio-v1/static/js/main.142316bc.chunk.js.map",
     "runtime-main.js": "/portfolio-v1/static/js/runtime-main.3199ff24.js",
     "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.3199ff24.js.map",
     "static/js/2.762b2ff8.chunk.js": "/portfolio-v1/static/js/2.762b2ff8.chunk.js",
     "static/js/2.762b2ff8.chunk.js.map": "/portfolio-v1/static/js/2.762b2ff8.chunk.js.map",
     "index.html": "/portfolio-v1/index.html",
-    "precache-manifest.54d68ec07070192054600937e090a66b.js": "/portfolio-v1/precache-manifest.54d68ec07070192054600937e090a66b.js",
+    "precache-manifest.198eee428aa2fed24cd9cac8d3a5ce68.js": "/portfolio-v1/precache-manifest.198eee428aa2fed24cd9cac8d3a5ce68.js",
     "service-worker.js": "/portfolio-v1/service-worker.js",
-    "static/css/main.fb7f9c0f.chunk.css.map": "/portfolio-v1/static/css/main.fb7f9c0f.chunk.css.map",
+    "static/css/main.dd689475.chunk.css.map": "/portfolio-v1/static/css/main.dd689475.chunk.css.map",
     "static/js/2.762b2ff8.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.762b2ff8.chunk.js.LICENSE.txt",
     "static/media/3dmockups.png": "/portfolio-v1/static/media/3dmockups.42440366.png",
     "static/media/App.scss": "/portfolio-v1/static/media/myself2.c0d14e96.png",
     "static/media/Mockups.png": "/portfolio-v1/static/media/Mockups.d4159a15.png",
     "static/media/Newdesign.png": "/portfolio-v1/static/media/Newdesign.8577a8eb.png",
     "static/media/Newdesign2.png": "/portfolio-v1/static/media/Newdesign2.3a51ff95.png",
-    "static/media/Nischal.pdf": "/portfolio-v1/static/media/Nischal.89610c51.pdf",
+    "static/media/Nischal.pdf": "/portfolio-v1/static/media/Nischal.7f65ca2a.pdf",
     "static/media/Olddesign.png": "/portfolio-v1/static/media/Olddesign.32fd7a68.png",
     "static/media/Olddesign2.png": "/portfolio-v1/static/media/Olddesign2.df96bf8d.png",
     "static/media/branding.png": "/portfolio-v1/static/media/branding.4acec17e.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.3199ff24.js",
     "static/js/2.762b2ff8.chunk.js",
-    "static/css/main.fb7f9c0f.chunk.css",
-    "static/js/main.35f69305.chunk.js"
+    "static/css/main.dd689475.chunk.css",
+    "static/js/main.142316bc.chunk.js"
   ]
 }
