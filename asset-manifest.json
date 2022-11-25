@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.bbfe7c5a.chunk.css",
-    "main.js": "/portfolio-v1/static/js/main.d8716fd2.chunk.js",
-    "main.js.map": "/portfolio-v1/static/js/main.d8716fd2.chunk.js.map",
+    "main.css": "/portfolio-v1/static/css/main.63b0c251.chunk.css",
+    "main.js": "/portfolio-v1/static/js/main.be5239b6.chunk.js",
+    "main.js.map": "/portfolio-v1/static/js/main.be5239b6.chunk.js.map",
     "runtime-main.js": "/portfolio-v1/static/js/runtime-main.3199ff24.js",
     "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.3199ff24.js.map",
-    "static/js/2.762b2ff8.chunk.js": "/portfolio-v1/static/js/2.762b2ff8.chunk.js",
-    "static/js/2.762b2ff8.chunk.js.map": "/portfolio-v1/static/js/2.762b2ff8.chunk.js.map",
+    "static/js/2.e459419a.chunk.js": "/portfolio-v1/static/js/2.e459419a.chunk.js",
+    "static/js/2.e459419a.chunk.js.map": "/portfolio-v1/static/js/2.e459419a.chunk.js.map",
     "index.html": "/portfolio-v1/index.html",
-    "precache-manifest.dda85ed6d1a205e5fd0b517b39109c55.js": "/portfolio-v1/precache-manifest.dda85ed6d1a205e5fd0b517b39109c55.js",
+    "precache-manifest.afbd587f2c1d969ec8d138390c9ef3d1.js": "/portfolio-v1/precache-manifest.afbd587f2c1d969ec8d138390c9ef3d1.js",
     "service-worker.js": "/portfolio-v1/service-worker.js",
-    "static/css/main.bbfe7c5a.chunk.css.map": "/portfolio-v1/static/css/main.bbfe7c5a.chunk.css.map",
-    "static/js/2.762b2ff8.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.762b2ff8.chunk.js.LICENSE.txt",
+    "static/css/main.63b0c251.chunk.css.map": "/portfolio-v1/static/css/main.63b0c251.chunk.css.map",
+    "static/js/2.e459419a.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.e459419a.chunk.js.LICENSE.txt",
     "static/media/3dmockups.png": "/portfolio-v1/static/media/3dmockups.42440366.png",
     "static/media/App.scss": "/portfolio-v1/static/media/myself2.c0d14e96.png",
     "static/media/Mockups.png": "/portfolio-v1/static/media/Mockups.d4159a15.png",
@@ -20,6 +20,7 @@
     "static/media/Nischal.pdf": "/portfolio-v1/static/media/Nischal.b72e9791.pdf",
     "static/media/Olddesign.png": "/portfolio-v1/static/media/Olddesign.32fd7a68.png",
     "static/media/Olddesign2.png": "/portfolio-v1/static/media/Olddesign2.df96bf8d.png",
+    "static/media/beijing.webp": "/portfolio-v1/static/media/beijing.209dcd10.webp",
     "static/media/branding.png": "/portfolio-v1/static/media/branding.4acec17e.png",
     "static/media/heaven.png": "/portfolio-v1/static/media/heaven.b9b6815c.png",
     "static/media/luvstay.png": "/portfolio-v1/static/media/luvstay.6c27f442.png",
@@ -28,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3199ff24.js",
-    "static/js/2.762b2ff8.chunk.js",
-    "static/css/main.bbfe7c5a.chunk.css",
-    "static/js/main.d8716fd2.chunk.js"
+    "static/js/2.e459419a.chunk.js",
+    "static/css/main.63b0c251.chunk.css",
+    "static/js/main.be5239b6.chunk.js"
   ]
 }
